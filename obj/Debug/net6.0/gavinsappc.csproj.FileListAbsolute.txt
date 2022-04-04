@@ -1,0 +1,15 @@
+/Users/gavinlasher/source/gavinsappc/bin/Debug/net6.0/gavinsappc
+/Users/gavinlasher/source/gavinsappc/bin/Debug/net6.0/gavinsappc.deps.json
+/Users/gavinlasher/source/gavinsappc/bin/Debug/net6.0/gavinsappc.runtimeconfig.json
+/Users/gavinlasher/source/gavinsappc/bin/Debug/net6.0/gavinsappc.dll
+/Users/gavinlasher/source/gavinsappc/bin/Debug/net6.0/gavinsappc.pdb
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.csproj.AssemblyReference.cache
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.AssemblyInfoInputs.cache
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.AssemblyInfo.cs
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.csproj.CoreCompileInputs.cache
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.dll
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/refint/gavinsappc.dll
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.pdb
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/gavinsappc.genruntimeconfig.cache
+/Users/gavinlasher/source/gavinsappc/obj/Debug/net6.0/ref/gavinsappc.dll
